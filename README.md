@@ -1,5 +1,7 @@
 # Домашнее задание к уроку 3
 
+https://alexbalash.github.io/lesson-3/index.html
+
 ### Верстаем макет.
 
 ***
